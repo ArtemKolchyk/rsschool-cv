@@ -4,7 +4,7 @@
 ## 1. Contact info
 Phone: +380631595123  
 e-mail: artemkolchik@gmail.com  
-GitHub: [mc-gorky](https://github.com/ArtemKolchyk)  
+GitHub: [ArtemKolchyk](https://github.com/ArtemKolchyk)  
 Linkedin: [link](https://www.linkedin.com/in/artemkolchyk/)  
 
 ## 2. Summary
