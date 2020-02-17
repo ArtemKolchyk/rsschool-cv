@@ -1,0 +1,29 @@
+body {
+  font-family: Roboto, sans-serif;
+  /*margin-left: 40px;*/
+  padding: 30px;
+  background-color: rgba(230, 230, 230, 0.678);
+  max-width: 1024px;
+}
+
+.experience li{
+  font-weight: bold;
+}
+
+span {
+  font-style: italic;
+  font-weight: bold;
+}
+
+img{
+  border: rgb(46, 44, 44) 5px;
+  border-radius: 0%;
+  border-radius: 50%;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.726), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+section {
+  border-left: 8px solid #6a6e6c;
+  padding-left: 5px;
+}
+
