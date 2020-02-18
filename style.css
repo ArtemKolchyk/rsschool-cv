@@ -22,8 +22,12 @@ img{
   box-shadow: 0 14px 28px rgba(0, 0, 0, 0.726), 0 10px 10px rgba(0,0,0,0.22);
 }
 
-section {
-  border-left: 8px solid #6a6e6c;
-  padding-left: 5px;
+.border {
+    border-left: 5px solid transparent;
+    padding-left: 10px;
+  }
+  
+.border:hover {
+    border-left: 5px solid red;
 }
 
